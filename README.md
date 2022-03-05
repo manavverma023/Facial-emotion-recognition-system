@@ -4,4 +4,4 @@ Facial emotion recognition system is basically a CNN model which detects the hum
 
 Dataset used : https://www.kaggle.com/jonathanoheix/face-expression-recognition-dataset
 
-Contributors - Manasvi Chahal, Manav Verma and Manas Dixit.
+Contributors - Manav Verma, Manas Dixit and Manasvi Chahal.
